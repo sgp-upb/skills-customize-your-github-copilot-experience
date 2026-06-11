@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-sqlite",
+      "title": "Python and SQLite Databases",
+      "description": "Build a small SQLite database with Python to store and query student records.",
+      "path": "assignments/python-sqlite",
+      "dueDate": "2026-06-18",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
